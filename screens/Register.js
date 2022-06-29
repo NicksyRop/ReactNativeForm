@@ -129,7 +129,7 @@ const Register = () => {
 
             <TouchableOpacity
               style={{
-                backgroundColor: "blue",
+                backgroundColor: "#597ac2",
                 borderRadius: 10,
                 height: 35,
                 justifyContent: "center",
