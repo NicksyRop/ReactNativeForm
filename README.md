@@ -12,8 +12,6 @@ LoginApp is part of an application used to login.Field entries are validated usi
 
 ## Demo
 
-
-
 https://user-images.githubusercontent.com/86717383/177032697-c90cc3da-abd3-41f9-91c6-e91a6f240fd0.mp4
 
 ## Screenshots: 📷
@@ -25,10 +23,7 @@ https://user-images.githubusercontent.com/86717383/177032697-c90cc3da-abd3-41f9-
 ![login](https://res.cloudinary.com/kenya-power/image/upload/v1656836956/online-shop/Screenshot_2022-07-03-10-58-29-911_host.exp.exponent_ngekei.jpg)
 ![required](https://res.cloudinary.com/kenya-power/image/upload/v1656836955/online-shop/Screenshot_2022-07-03-10-57-06-159_host.exp.exponent_viibuy.jpg)
 ### Fingerprint
-![scan](https://res.cloudinary.com/kenya-power/image/upload/v1656068240/online-shop/Screenshot_2022-06-24-13-52-11-718_host.exp.exponent_bkv5fh.jpg)
-
-
-
+The app doesnt allow recording fingerprints ....
 
 
 ## Technologies Used
