@@ -1,11 +1,13 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
-import Register from "./screens/Register";
+import React, { useEffect, useState } from "react";
+import { View } from "react-native";
+import { NavigationContainer } from "@react-navigation/native";
+
+import RootStack from "./navigation/Root";
 
 export default function App() {
   return (
-    <View>
-      <Register />
-    </View>
+    <NavigationContainer>
+      <RootStack />
+    </NavigationContainer>
   );
 }
