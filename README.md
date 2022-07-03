@@ -15,7 +15,7 @@ Demo can be viewed.[here](https://res.cloudinary.com/kenya-power/video/upload/v1
 
 ## Screenshots: 📷
 ### Login - Fingerprint supported
-![splash](https://res.cloudinary.com/kenya-power/image/upload/v1656836956/online-shop/Screenshot_2022-07-03-11-00-12-623_host.exp.exponent_qco4wf.jpg)
+![splash](https://res.cloudinary.com/kenya-power/image/upload/v1656836955/online-shop/Screenshot_2022-07-03-10-56-57-507_host.exp.exponent_jsq9ul.jpg)
 ### Login - No Fingerprint
 ![Register](https://res.cloudinary.com/kenya-power/image/upload/v1656068245/online-shop/Screenshot_2022-06-24-13-51-31-129_host.exp.exponent_jiwdmo.jpg)
 ### Validation
